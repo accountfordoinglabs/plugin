@@ -1,2 +1,5 @@
+# Попова Виктория Андреевна М3110
 # plugin
-open the calender and write a reminder
+Opens the calender and write a reminder
+## Описание работы 
+При нажатии клавиш ctrl+\ ctrl+P открывается страница календаря в браузере и всплыает окно с напоминанием, что до нового года осталось немного
